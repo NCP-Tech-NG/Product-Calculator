@@ -1,2 +1,17 @@
-# Product-Calculator
-Product Price Calculator for small businesses, calculate quantities, unit pricing, discounts, Vat/tax and grand totals instantly.  
+# NCP-Tech-NG | Product Calculator
+
+A simple product pricing calculator for NCP-Tech-NG and small businesses.
+
+## Features
+- Add products
+- Quantity and unit price
+- Automatic line totals
+- Subtotal
+- Discount
+- Tax
+- Grand total
+- Remove products
+- Mobile responsive
+
+## Usage
+Open `index.html` in a browser.
